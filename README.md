@@ -1,7 +1,9 @@
 # I'm Gabriel Olafsson
 
-Reach out on email => **gabriel@gabrielolafsson.com**
-My projects are written about on my website => **[https://gabrielolafsson.dev](https://gabrielolafsson.dev)**
+Reach out on email => **gabriel@gabrielolafsson.com**  
+
+My projects are written about on my website => **[https://gabrielolafsson.dev](https://gabrielolafsson.dev)**  
+
 My Resume => **[https://gabrielolafsson.dev/pdf/gabriel_olafsson_resume.pdf](https://gabrielolafsson.dev/pdf/gabriel_olafsson_resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
