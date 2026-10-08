@@ -1,10 +1,8 @@
-# Hi 👋, I'm Gabriel Olafsson
+# I'm Gabriel Olafsson
 
-- 📫 How to reach me **gabriel@gabrielolafsson.com**
-
-- 👨‍💻 All of my projects are available at **[https://gabrielolafsson.dev](https://gabrielolafsson.dev)**
-
-- 📄 Know about my experiences **[https://gabrielolafsson.dev/pdf/gabriel_olafsson_resume.pdf](https://gabrielolafsson.dev/pdf/gabriel_olafsson_resume.pdf)**
+Reach out on email => **gabriel@gabrielolafsson.com**
+My projects are written about on my website => **[https://gabrielolafsson.dev](https://gabrielolafsson.dev)**
+My Resume => **[https://gabrielolafsson.dev/pdf/gabriel_olafsson_resume.pdf](https://gabrielolafsson.dev/pdf/gabriel_olafsson_resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
